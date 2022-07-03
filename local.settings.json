@@ -3,6 +3,8 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true;",
     "ContainerName" : "storeimage",
-    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "Database":"AccountEndpoint=https://cmsdevswr001.documents.azure.com:443/;AccountKey=Pd0YiSBVSGNosPEllABkiepNTd5gMCFMjj5k9BiAzHjFD5ooMj0eX4LqA0RCEJP7Uukz70qOWSMTwPRZYDCGXg==",
+    "ContainerDatabase":"SampleContainer"
   }
 }
